@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reservation - Spice Garden</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar-area sticky">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">🌶 Spice Garden</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="menu.html">Menu</a></li>
+          <li class="nav-item"><a class="nav-link active" href="reservation.html">Reservations</a></li>
+          <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+        </ul>
+      </div> 
+    </div>
+  </nav>
+</nav>
+
+<!-- Reservation Section -->
+<section id="reservation" class="py-5">
+  <div class="container">
+    <h1 class="reservation-title text-center mb-3 fw-bold">Make a Reservation</h1>
+    <p class="reservation-subtitle text-center mb-5">
+      Reserve your table now and enjoy authentic Pakistani & Indian fusion cuisine in a warm and welcoming atmosphere.
+    </p>
+
+    <!-- Reservation Form -->
+    <form class="row g-3 justify-content-center">
+      <div class="col-md-6">
+        <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+      </div>
+      <div class="col-md-6">
+        <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+      </div>
+      <div class="col-md-6">
+        <input type="tel" name="phone" class="form-control" placeholder="Phone Number" required>
+      </div>
+      <div class="col-md-3">
+        <input type="date" name="date" class="form-control" required>
+      </div>
+      <div class="col-md-3">
+        <input type="time" name="time" class="form-control" required>
+      </div>
+      <div class="col-md-6">
+        <input type="number" name="guests" class="form-control" placeholder="Number of Guests" min="1" required>
+      </div>
+      <div class="col-md-12">
+        <textarea name="requests" class="form-control" rows="4" placeholder="Special Requests"></textarea>
+      </div>
+      <div class="col-md-12 text-center">
+        <button type="submit" class="btn btn-warning btn-lg px-5">Reserve Now</button>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
