@@ -523,21 +523,31 @@
 
 
 
-//map example
-const numbers = [1, 2, 3, 4];
-const doubled = numbers.map(num => num * 2);
-console.log(doubled); // [2, 4, 6, 8]
+// //map example
+// const numbers = [1, 2, 3, 4];
+// const doubled = numbers.map(num => num * 2);
+// console.log(doubled); // [2, 4, 6, 8]
 
 
-//filter example
-const number1 = [1, 2, 3, 4, 5];
+// //filter example
+// const number1 = [1, 2, 3, 4, 5];
 
-const evens = number1.filter(num1 => num1% 2 === 0);
+// const evens = number1.filter(num1 => num1% 2 === 0);
 
-console.log(evens); // [2, 4]
-//reduce example\
-const number2 = [1, 2, 3, 4];
+// console.log(evens); // [2, 4]
+// //reduce example\
+// const number2 = [1, 2, 3, 4];
 
-const total = number2.reduce((acc, curr) => acc + curr, 0);
+// const total = number2.reduce((acc, curr) => acc + curr, 0);
 
-console.log(total); // 10
+// console.log(total); // 10
+
+
+var guestList =["anegla,hasnain,arham,afnan,adnan"];
+var guestName=prompt("what is your name");
+if(guestList.includes(guestName)){
+   alert( "welcome");
+}else{
+alert("Sorry may be next time ");
+}
+
