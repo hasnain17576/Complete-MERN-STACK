@@ -542,12 +542,20 @@
 
 // console.log(total); // 10
 
+// 
+// var guestList =["anegla,hasnain,arham,afnan,adnan"];
+// var guestName=prompt("what is your name");
+// if(guestList.includes(guestName)){
+//    alert( "welcome");
+// }else{
+// alert("Sorry may be next time ");
+// }
 
-var guestList =["anegla,hasnain,arham,afnan,adnan"];
-var guestName=prompt("what is your name");
-if(guestList.includes(guestName)){
-   alert( "welcome");
-}else{
-alert("Sorry may be next time ");
-}
 
+
+let age = 18;
+let result = (age >= 18) ? "Adult" : "Minor";
+console.log(result);
+const add = (a, b) => {
+  return a + b;
+};
