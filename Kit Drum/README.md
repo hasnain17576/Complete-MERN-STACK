@@ -1,10 +1,7 @@
-# Complete-MERN-STACK
-IN this repository complete Web development work and course
-KIT DRUM PROJECT
+# My Project Screenshots
 
-## Screenshots
-| [image](https://github.com/user-attachments/assets/511c8a36-e48c-4dc1-b676-afa1ec8456d6)
-|[image1](https://github.com/user-attachments/assets/3979f996-2d36-464b-8809-62e850ac0de0)
-| [image2](https://github.com/user-attachments/assets/a88c3b57-9e74-4d05-b832-5a00781f8bb0)
-| [Screenshot 2025-08-20 151430](https://github.com/user-attachments/assets/e4c1dd90-4b0c-42af-8744-5493f26b69eb)
-|
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|--------------|--------------|--------------|--------------|
+| ![](images/![image](https://github.com/user-attachments/assets/9407a326-efce-48e8-a334-7ee5fb7a5b8a)
+) | ![](![image1](https://github.com/user-attachments/assets/cfbbf53c-f816-4539-8c0c-c5bec62c73a0)
+) | ![](images/screen3.png) | ![](images/screen4.png) |
