@@ -2,7 +2,7 @@
 IN this repository complete Web development work and course
 KIT DRUM PROJECT
 <p align="center">
-  <img src="![Screenshot 2025-08-20 151328](https://github.com/user-attachments/assets/cef08b12-6e24-40a1-8be7-38b8c3b5f4aa)
+  <img src="![Screenshot 2025-08-20 151328]
 " alt="Home" width="200"/>
   <img src="![Screenshot 2025-08-20 151405](https://github.com/user-attachments/assets/38518b25-9524-4b60-9f64-fb5edaee05d8)
 " alt="Dashboard" width="200"/>
