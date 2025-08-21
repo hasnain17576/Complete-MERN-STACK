@@ -20,7 +20,7 @@ In the browser version, usually there are 4 color buttons:
 **🔹 Functionality (Step by Step)**
 | Screenshot 1 |
 |--------------|
-| ![](images/![1](https://github.com/user-attachments/assets/27ce1cb0-d187-4188-9f5f-b13d33ae41e2)|
+|![1](https://github.com/user-attachments/assets/27ce1cb0-d187-4188-9f5f-b13d33ae41e2)|
 
 **<h1>Game Start</h1>**
 
